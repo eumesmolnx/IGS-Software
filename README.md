@@ -58,7 +58,7 @@ This is Python-Django test project and your main go is to create a API to manage
     {
     "name": "John Doe",
     "email": "john@mail.com",
-    "departament": "RH"
+    "departament": 1 // departament ID
     }
 
 **Response**
